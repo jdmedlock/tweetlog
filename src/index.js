@@ -2,24 +2,25 @@ const fs = require('fs');
 const readline = require('readline');
 
 const parseTweet = (tweet) => {
-  const months = [' Jan ', ' Feb ', ' Mar ', ' Apr ', ' May ', ' Jun ', ' Jul ', ' Aug ', ' Sep ', ' Oct ', ' Nov ', ' Dec '];
-  for (let i = 0; i<months.length; i++) {
-    const dateStartPos = tweet.indexOf(months[i]);
-    if (dateStartPos !== -1) {
-      const urlStartPos = tweet.search(/http:\/\/|https:\/\//g);
-      const tweetedURL = urlStartPos === -1 ? '' : tweet.substring(urlStartPos, tweet.indexOf(' ',urlStartPos));
-      return {
-        tweet: `${tweet.substring(0,dateStartPos).trim()}`,
-        dateTweeted: `${tweet.substring(dateStartPos).trim()}`,
-        embeddedURL: `${tweetedURL}`,
-      };
-    }
-  }
-  console.log(`No date found`);
+  const months = [' Jan ', ' Feb ', ' Mar ', ' Apr ', ' May ', ' Jun ', ' Jul ', 
+                  ' Aug ', ' Sep ', ' Oct ', ' Nov ', ' Dec '];
+  
+  return months.reduce((tweetObject,currentMonth) => {
+    const dateStartPos = tweet.indexOf(currentMonth);
+    if (dateStartPos === -1) return tweetObject;
+    const urlStartPos = tweet.search(/http:\/\/|https:\/\//g);
+    const tweetedURL = urlStartPos === -1 ? '' 
+      : tweet.substring(urlStartPos, tweet.indexOf(' ',urlStartPos));
+    return {
+      tweet: `${tweet.substring(0,dateStartPos).trim()}`,
+      dateTweeted: `${tweet.substring(dateStartPos).trim()}`,
+      embeddedURL: `${tweetedURL}`,
+    };
+  }, {});
 };
 
 const readInterface = readline.createInterface({
-  input: fs.createReadStream('/Users/jdmedlock/Downloads/extractedtweets.txt'),
+  input: fs.createReadStream('/Users/jim/Downloads/extractedtweets.txt'),
   output: process.stdout,
   console: false
 });

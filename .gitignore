@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Exclude the file of extracted tweets used for testing
+extractedtweets.txt

@@ -1,0 +1,24 @@
+{
+  "name": "tweetlog",
+  "version": "1.0.0",
+  "description": "Create a formatted log of Tweets extracted through AllMyTweets.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmedlock/tweetlog.git"
+  },
+  "keywords": [
+    "Twitter",
+    "tweet",
+    "log"
+  ],
+  "author": "Jim D. Medlock",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmedlock/tweetlog/issues"
+  },
+  "homepage": "https://github.com/jdmedlock/tweetlog#readme"
+}

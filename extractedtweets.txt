@@ -1,0 +1,235 @@
+Here's a great article on Visualizing Prototypal Inheritance from @lydiahallie. https://t.co/huV6QY3gIM Jan 04, 2020 
+Curious about the differences between EM, REM, & PX in CSS? https://t.co/SDyZVlJEgv Jan 03, 2020 
+Another Project Showcase - developer projects galore! 😁https://t.co/4biI50Le59 Jan 03, 2020 
+Security doesn't begin with firewalls, virus checkers, or security appliances. It begins with Developers writing se… https://t.co/ru4Itsmuzm Jan 02, 2020 
+Happy New Year! Before you set goals for 2020 take time to reflect on how you did in 2019. We use this framework an… https://t.co/PeawQyQHze Jan 01, 2020 
+Confused by what makes a good commit message? Check out this article from our friend @puritanicdev https://t.co/sp21CO1hp1 Dec 30, 2019 
+Thank you @ming__yong and the Toucans 03 Team! https://t.co/UI0ULtcw2M Dec 29, 2019 
+Completing an assignment isn't just a matter of "checking the box". It has to work, but along the way have you impr… https://t.co/I4DoeiUAPi Dec 28, 2019 
+Here's an article those of you interested in learning about CSS Grid will find useful. https://t.co/SKajtfAe3a Dec 27, 2019 
+Have you seen this yet? The State of JS in 2019. The results are interesting along with how it's presented. https://t.co/yBSl1sidfe Dec 26, 2019 
+What are your favorite sources for new app ideas? Where does your inspiration come from? Dec 25, 2019 
+We ran across this while researching for best practices for React apps and thought others might find it as useful a… https://t.co/Wckub6hhuZ Dec 24, 2019 
+Chingu Voyage 16 starts on February 6rd. If you are interested in getting out of tutorial purgatory find out more a… https://t.co/d6CC1AeVP9 Dec 23, 2019 
+If you are into React you might find this weekly newsletter interesting and useful. https://t.co/6oyPA61wvo Dec 23, 2019 
+Good teams can build great apps sometimes. But great teams are open, honest and frank with one another, and support… https://t.co/rT4Fx2MOH2 Dec 22, 2019 
+Another great article from @bendhalpern at https://t.co/8OT8OM6z4w for anyone interested in performance https://t.co/rdbDgKjLDF Dec 21, 2019 
+🔥 https://t.co/VrzpDX1piE Dec 21, 2019 
+No matter how frustrated you may get with problems, conflict, or the Impostor Syndrome --- Remember the joy when yo… https://t.co/mSK7fqfFR5 Dec 20, 2019 
+You got this. 💯 https://t.co/qey2P1rRfP Dec 18, 2019 
+What Dev mistake did you make in 2019 that you learned the most from? Dec 17, 2019 
+We found this article on Understanding Streams in Node.js by @lizparody23 to be interesting and helpful. https://t.co/I0E31IOEUX Dec 16, 2019 
+Every web app should be built on four pillars: - Responsiveness - Accessibility (A11Y) - Attention to error handlin… https://t.co/geXB1y8do7 Dec 15, 2019 
+The most effective teams track project scope, backlog, and work in progress (WIP). It doesn't matter how you track… https://t.co/5LJzbxZWNi Dec 14, 2019 
+Whether it's triaging a problem with an automobile or a web app its hard to find a technique as useful as the Five… https://t.co/C7u0KHocex Dec 13, 2019 
+What have you done this week to help out a teammate or another Dev? Dec 11, 2019 
+Balancing the conflict between deadlines and building up technical debt is like walking a tightrope. It's a sourc… https://t.co/1NLEdxear0 Dec 10, 2019 
+CHINGU PROJECT SHOWCASE - 250+ projects from coders around the world oh my! 🤯 😁 https://t.co/rf0tMurVGM Dec 09, 2019 
+😍🔥 https://t.co/M8Egjd7Z7t Dec 09, 2019 
+It takes more than technology for teams to be successful. Successful teams have members committed to the objective,… https://t.co/XX1N1LM4mh Dec 09, 2019 
+Discord is back again! Woo woo! Dec 08, 2019 
+Discord is experiencing issues again today Chingu's. Hopefully, they'll have it resolved soon. Stay tuned and be patient.... Dec 08, 2019 
+Discord is back! Dec 07, 2019 
+Discord is currently unavailable due to this issue - https://t.co/3fAzhIE8dV. Take heart Chingu's! Our online commu… https://t.co/GSQXL2Wjo4 Dec 07, 2019 
+What projects are you working on this weekend? Dec 07, 2019 
+Great job @RafaelDavisH! https://t.co/v3ND3vIuj8 Dec 02, 2019 
+Another great interview by @mahtab_dev with our own @NelliesNoodles https://t.co/FIsccQOUYc Dec 02, 2019 
+Take a look at this article "What I learned about CSS" from a fellow Chingu @Great_Developer. Great job! Nov 26, 2019 
+Thanks to @sophia_wyl for sharing her Chingu Sprint 2 experience. Nicely done! https://t.co/i01XU12OQm Nov 18, 2019 
+Checkout this article by our member and friend @ababsul --> https://t.co/UfLrbYi2Wr Nov 17, 2019 
+We've started to step up our game on https://t.co/8OT8OM6z4w. Check us out at https://t.co/ThGgdOMO81! Oct 01, 2019 
+Checkout the latest article by @mahtab_tadayon! https://t.co/gBWCew9FCR Sep 27, 2019 
+💃🕺💃 https://t.co/hrA8DsIp8B Sep 25, 2019 
+Voyage 11 is well underway and Voyage 12 starts this week! https://t.co/3WYiwdv6a7 Sep 09, 2019 
+Here's all the latest news of what's been happening at Chingu! https://t.co/YnACg7hfmF Sep 02, 2019 
+Super proud of ALL THESE PROJECTS from ALL THESE AMBITIOUS DEVELOPERS 🔥🔥 https://t.co/7jDhnJ3l6f Aug 28, 2019 
+Thank you for your kind words @mahtab_tadayon. Nothing makes us happier that to see Devs achieving their goals. https://t.co/8mgziK4lZ5 Aug 25, 2019 
+Read about our friend @max_myracle's latest project and Chingu experience! https://t.co/VnMqb3SPGM Aug 25, 2019 
+Here's a great article by our friend @snrelghtwt that provides practical advice on how to mentor your fellow devs https://t.co/XuJOXevnpc Aug 19, 2019 
+THE VOYAGE 11 PREWORK HAS LAUNCHED!! LET'S BUILD-TO-LEARN!! 🚀 https://t.co/ogqtgDtwMr Aug 14, 2019 
+Chingu Voyage 11 launches today! The start of a new Voyage is always fun and it's exciting to meet new Chingu's! Aug 14, 2019 
+Here it comes! 🙉🙉 https://t.co/LEljj8QHnT Aug 02, 2019 
+We're now on ProductHunt! https://t.co/cGLpZVxXkF Jul 29, 2019 
+WE DID IT!!! Build, hack, learn: 230+ developer projects from people across the globe 🚀🚀🚀 https://t.co/19jZTYbYx1 Jul 25, 2019 
+Invest in WebDev career! Chingu Cohort 11 will be starting in mid-August. You can find out more and apply to join u… https://t.co/2OOqKbvbR4 Jul 25, 2019 
+Chingu Weekly Vol. 91 --> https://t.co/EgjoMe4w8G Jul 23, 2019 
+https://t.co/udcBu4BZNl Jul 11, 2019 
+Another week, another update! https://t.co/C3QNjYhksf Jun 20, 2019 
+450+ members from 1/3 of the world's countries coming together to build, level-up and collaborate for this Voyage.… https://t.co/q0pNRAuHSZ Jun 14, 2019 
+Chingu Pre-work launch day!! 🚀 🔥 https://t.co/pT383QFHWn Jun 14, 2019 
+Checkout this article from our own @ZumDeWald - "Keys to a Well-Written README". Thanks Eric! https://t.co/wD9iz2XAs3 Jun 11, 2019 
+Another edition of the Chingu Weekly --> https://t.co/zekPx9erOE Jun 11, 2019 
+See what @2alin created in our current Voyage 9! Great work https://t.co/JiCFrDAHLH Jun 06, 2019 
+😇🌎 https://t.co/zTqKapBuSJ Jun 04, 2019 
+Chingu Weekly Vol. 84 https://t.co/ZL0mFqb9Nq Jun 04, 2019 
+Find out more about Bad Coding Practices to steer clear of in this article from Roberto Hernandez https://t.co/ukWgpJxVBB Jun 04, 2019 
+ANOTHER 79 GLOBAL DEVELOPER TEAMS LAUNCHED!!!! 🔥🔥🚀🔥 https://t.co/GThrpAE2VR Jun 01, 2019 
+Checkout this article from one of our Chingu's! https://t.co/xMDsb5GLfg May 26, 2019 
+Voyage-9 Pre-work just launched!!! https://t.co/RajqKAFeEU May 16, 2019 
+Voyage-9 teaser & extra info --> https://t.co/5C4A8MPXhD May 16, 2019 
+Excellent episode with lots of good discussion and advice on Retrospectives. https://t.co/EQG2bJe22x May 15, 2019 
+Cohort 8 wrapped up this past weekend and Cohort 9 will start this week Thursday! If you are interested in leveling… https://t.co/YIQKIEbZqS May 13, 2019 
+We are excited as we finalize preparations for tomorrow's Showcase Event to celebrate Voyage 8 teams and their acco… https://t.co/aG5TpqxwQb May 10, 2019 
+Checkout this article from @danko566 on his experience in the Chingu Voyage 8 and see the app his team built! https://t.co/6gmleXPOCD May 07, 2019 
+Congratulations to all Chingu Voyage teams who are completing their 8-week long projects today. You are a motivated… https://t.co/oBrUPGSqdq May 04, 2019 
+Checkout this article documenting one team's experience in the Chingu Voyage 8 program! https://t.co/uJY7hhQA3R May 02, 2019 
+Another week, another update --> https://t.co/imMnpXHeVQ May 02, 2019 
+We're getting close to project MVP season!! 🚀 https://t.co/bHySTOcmBw Apr 24, 2019 
+Chingu Weekly --> https://t.co/9i7IPdpxWC Apr 16, 2019 
+https://t.co/5tQOtWfpsY Apr 10, 2019 
+We just finished the latest in our Meet the Developer series with Van Tabbert of Walmart. Thank you @vannyalock for… https://t.co/JLnYsRLOjZ Apr 06, 2019 
+Checkout the latest article by our own @florinpop1705 https://t.co/xDW7N63zzy Apr 04, 2019 
+Checkout the latest addition to our Meet the Developer series. This week's guest was Musaab "The Sabby" Elfaqih. https://t.co/AF0lN7chs8 Mar 30, 2019 
+Overheard in Chingu: "vue is bae" 😂+ https://t.co/GwnazhYR4T Mar 28, 2019 
+Teams are starting to heat up! 🔥🔥 https://t.co/Hd388IQeUc Mar 27, 2019 
+Another 50+ global remote developer teams launched! 🚀 https://t.co/g6uuDChSWF Mar 18, 2019 
+Our friend @florinpop1705 has started a Weekly Coding Challenge. Check it out at https://t.co/8ZwrOYZkkg Mar 13, 2019 
+Checkout our discussion with Ivan Orlov, creator and maintainer of the FuseBox bundler. https://t.co/zTwI7k1cy9 Mar 10, 2019 
+Checkout this article describing how one Chingu created and deployed an SSR React app https://t.co/H9VaNS6CAK Mar 08, 2019 
+Whether you are looking to gain new WebDev skills or improve the one's you already have @florinpop1705 's blog alwa… https://t.co/U7hq6mfA4Y Mar 04, 2019 
+If you'd like to learn more about how to develop Slackbot's using Python see this comprehensive article from our ow… https://t.co/Z4ktBpcSBx Mar 03, 2019 
+We just concluded an AMA with the Chingu-X team to give our members the opportunity to ask questions about the curr… https://t.co/gGeCWiDPnx Mar 02, 2019 
+Caught you! 😇🧐🕺 https://t.co/ncZOWSpOGf Mar 01, 2019 
+Overheard in Chingu - Launch Edition 🌎 https://t.co/ds0luYWbwU Feb 28, 2019 
+Thank you @florinpop1705 for this article on building the Movie Search App! This will be valuable to Chingus workin… https://t.co/AcxKDXnVAn Feb 28, 2019 
+https://t.co/XaF3vJFULw Feb 26, 2019 
+Global collaboration: a project showcase 🍾🚀🔥 --> https://t.co/q0wdJSoKWl Feb 25, 2019 
+We had a great launch of Voyage 8 yesterday. It was exciting to see the enthusiasm our members brought in to starti… https://t.co/4LVsZBQjUp Feb 23, 2019 
+And Voyage-8 Prework has launched! 🚀 https://t.co/4ygVYkMgzs Feb 22, 2019 
+🕺🔥 https://t.co/mGFwAVw5AB Feb 22, 2019 
+🍾 https://t.co/8uQC8WmenA Feb 22, 2019 
+🔥🔥 https://t.co/mGFwAVw5AB Feb 22, 2019 
+Check out this Javascript coding challenge article --> https://t.co/l8HRbCvlDv Feb 20, 2019 
+Voyage-8 teaser! 🤓 https://t.co/OG4bRHBgoS Feb 18, 2019 
+Learn from the planning one team used to create their successful Chingu Voyage app. https://t.co/uIuBb5zRsn Feb 16, 2019 
+A little glimpse into the shenanigans during a Chingu cohort launch --> https://t.co/w6qUzjQdKn Feb 15, 2019 
+We excited for the start of the new Chingu Voyage next week. Invitations went out early this week and we can't wait… https://t.co/bb67itJRwH Feb 15, 2019 
+Welcome to Chingu - https://t.co/BPaKQRx6AZ Feb 14, 2019 
+Checkout one persons journey to become a successful Web Developer. Also catch his interview on… https://t.co/HbdVNol2WJ Feb 13, 2019 
+Conditional acceptance notifications went out yesterday to applicants for Chingu's Voyage-8 cohort session. The pre… https://t.co/tSvIBBi3ea Feb 12, 2019 
+Retrospection may well be the most important tool any team has. We've been listening to our members and are hard at… https://t.co/wcEutspwa3 Feb 09, 2019 
+Preparations are underway for the start of the next Chingu Voyage in a couple weeks! Stay tuned for more information. Feb 07, 2019 
+Time to update your React skills. Hooks are know in stable release. https://t.co/sDw7HKfeM3 Feb 06, 2019 
+What are you doing today to help those around you? Feb 04, 2019 
+Previous articles in this series proposed a large volume ETL project and defined the FE & BE environments. Part 3 d… https://t.co/qDjLpTw8fA Feb 03, 2019 
+When was the last time you had a meaningful conversation with a coworker or teammate on any subject? https://t.co/LqMH57ZXrW Feb 03, 2019 
+What's it like to participate in a Chingu Voyage? Read Upasana's article to find out! https://t.co/NLgixXc0jI Feb 01, 2019 
+Here's a Chrome Extension developed by a Chingu team during one of our Voyages (think 8-week Hackathon). It has 100… https://t.co/MARgm4pHCT Jan 31, 2019 
+This is a good starting point for those new to CSS. @ASpittel at https://t.co/8OT8OM6z4w has done a great job layin… https://t.co/WfTGJBWwjS Jan 30, 2019 
+🔥🔥🔥🍾🍾🍾 https://t.co/KzZs4u0gVH Jan 30, 2019 
+Understanding web development isn't just about individual tools. It's about how use them in unison to produce a web… https://t.co/kXMhGH98ZO Jan 29, 2019 
+Find out more about one Chingu teams latest app completed for the FCC Speedrun. https://t.co/hvlmWYnCbO Jan 28, 2019 
+What style of learning suits you best. Some individuals are visual learners, some learn best by reading, and all ne… https://t.co/Fe5vZCttV0 Jan 27, 2019 
+Posted by one of our Chingu members in a Slack channel. Gotta love this! https://t.co/9086IQCxbJ Jan 25, 2019 
+If you haven't checked it out take a look at the Chingu Publication on https://t.co/rkspXcVToj. We working hard to… https://t.co/LQHgTHLnjI Jan 25, 2019 
+Part 1 defined the problem WebDevs face with app performance and demonstrated how to use the Audit feature of Chrom… https://t.co/EdCfmAxdb3 Jan 24, 2019 
+Checkout one Chingu teams project to build a Pomodoro Clock for the current Chingu Voyage thats currently wrapping… https://t.co/AQ20hJUdhs Jan 23, 2019 
+See how one Chingu cohort built a Weather app for the current Chingu Voyage. https://t.co/KYRSU1wzTT Jan 22, 2019 
+This makes so much sense on so many levels... https://t.co/QevNy018nC Jan 21, 2019 
+Checkout the final installment of @ZumDeWald 's series on WiFi. https://t.co/Jwe5PuarcF Jan 21, 2019 
+Here is part 2 in @ZumDeWald 's series on Demystifying WiFi. https://t.co/KtMiCaaBLD Jan 20, 2019 
+"I don't build games because I love games...Games are a tool that can help us bring happiness to the world." - Dani… https://t.co/zbzvYM0fp9 Jan 19, 2019 
+Ever wonder how WiFi works and how your router makes all your wireless devices seamlessly work together? Read… https://t.co/xzeB5Sfzxr Jan 19, 2019 
+This is useful for those interested in an in-depth discussion of UI/UX https://t.co/0r5olzTRK9 Jan 18, 2019 
+What projects are you working on today to extend your knowledge and experience? Jan 18, 2019 
+Good advice! https://t.co/fotjJUvi5K Jan 17, 2019 
+Performance analysis and tuning is hard work. But creating and following a plan to measure and compare the effect o… https://t.co/L91QfInhlQ Jan 17, 2019 
+nteresting article about the increased popularity of VSC and where it stands compared to other editors and IDE's. https://t.co/tsAgqlaZaH Jan 16, 2019 
+When developing in React we strive to re-use as many components as we can. Read Andrei's article to see how setup a… https://t.co/k4Xrqgftdr Jan 16, 2019 
+User Experience (UX) is a broad and deeply complex discipline that is central to creating quality apps. However, er… https://t.co/xtF3GIMInI Jan 15, 2019 
+https://t.co/DCcjmeWmhk Jan 14, 2019 
+Learn more about one WebDev's experience participating in Google's secret hiring challenge! https://t.co/e6xaqmmu7K Jan 14, 2019 
+Learning is one path to self improvement and personal development, and learning should never stop. It's a lifelong… https://t.co/zDVYeJo7wR Jan 13, 2019 
+A beginner-friendly tutorial on webhooks, HMAC signatures, and middleware. Learn how to secure your server by writi… https://t.co/HYkhtaDm0e Jan 12, 2019 
+We all talk about the Impostor Syndrome, but Ilsmarie provides her personal story and sound advice for how to deali… https://t.co/xRGiOxaYNb Jan 11, 2019 
+Disagreement is a normal part of life, but how you choose to disagree impacts productivity and team dynamics. https://t.co/7QVsXYWLtA Jan 10, 2019 
+If you could turn back time, when you started your WebDev journey what's the #1 bit of technical knowledge you wish had understood? Jan 09, 2019 
+How many times a day do you tweet and then delete to correct a typo you've missed? https://t.co/finuyUfT0X Jan 09, 2019 
+How do we work to improve the learning experience for our members? We rely on their expertise and feedback! https://t.co/AJDp5EMBY8 Jan 09, 2019 
+Environment variables are an important element of a Developer's toolbox. They provide a level of abstraction to all… https://t.co/P6Q8QtrB2z Jan 08, 2019 
+So you have a lot of interest in game development but you have no team. Also where will you get an idea to build a… https://t.co/nxev9c0Xy5 Jan 07, 2019 
+What are you working on today? Jan 07, 2019 
+Chingu Weekly Vol. 72 --> https://t.co/xDt6PJ68II Dec 03, 2018 
+Chingu Weekly Vol. 71 ☕️☕️☕️ --> https://t.co/C1HsUqGmrH Nov 26, 2018 
+We're back with more cohorts and remote developer teams! 🤓🌏🌍🌎☕️https://t.co/7PAAdJrxmL Nov 19, 2018 
+Never stop building, never stop learning 🚀 --> https://t.co/FvobzJDGAE Aug 21, 2018 
+🔥🔥🔥🔥 https://t.co/2ngPAQ3FYd Jun 22, 2018 
+Always a pleasure to to see an article from @BoluAjibawo 🔥🔥 https://t.co/9JQxXBqZnb Jun 14, 2018 
+REMOTE TEAM DEVELOPER PROJECTS WOOO! 🔥🚀🔥🚀 https://t.co/BqYJToFmX1 Jun 13, 2018 
+🚀 https://t.co/61jAfLGhum Jun 13, 2018 
+#build2learn https://t.co/SGKLx8giXU Jun 12, 2018 
+#build2learn! 🚀 https://t.co/GSjdSiR4mm Jun 11, 2018 
+Check out Em Estabillo's article about a bot she built to help raise awareness for depression! --> https://t.co/F1ILy4jzzK Jun 11, 2018 
+🌏🌍🌎💻💻💻 https://t.co/OAsAfJ1VdW Jun 10, 2018 
+🌎🌍🌏 https://t.co/wgg4xVbeXD Jun 09, 2018 
+🍻 Cheers to all the great team-mates out there!! --> https://t.co/DkCA3Muwz5 Jun 07, 2018 
+🚀 https://t.co/hhwTGI3vF0 Jun 06, 2018 
+https://t.co/AcfRD0fUZj Jun 06, 2018 
+The Voyage-7 cohort will be launched in July and is open to DEVELOPERS | DATA SCIENTISTS | DESIGNERS & DIGITAL MAR… https://t.co/Qvw7t9tmls Jun 05, 2018 
+For anyone who has applied but hasn't heard back, worry not, we will be contacting you in the next week 🙏 Due to th… https://t.co/pNjHZxUFcD Jun 05, 2018 
+Wooo! The Voyage-6 invites have been sent!!! 😇🔥🚀 TIME FOR ANOTHER GLOBAL VOYAGE TO BUILD-TO-LEARN! https://t.co/fYIQj9QeHZ Jun 05, 2018 
+Here's @SchleicherOECD dropping some higher education! 🔥 🔥 https://t.co/GjXMeQp9T7 Jun 05, 2018 
+🔥 https://t.co/Tu2Gtw37Ai Jun 05, 2018 
+For those who haven't got your invite yet, no worries it should be coming along soon! Slack puts limits on how fast… https://t.co/m7K9QO4efG Jun 05, 2018 
+💯🙌🚀 https://t.co/s2uty1geJh Jun 05, 2018 
+Love it @JaffacakeStudio 🔥🔥 https://t.co/ADt4v3S45N Jun 05, 2018 
+💯 https://t.co/MWpnN6hR5g Jun 05, 2018 
+ALMOST GO TIME! 🙌🙌🙌 https://t.co/W3EGTCOUbd Jun 05, 2018 
+🦎🙌 https://t.co/e2XiEW8UGl Jun 05, 2018 
+https://t.co/qhv77NvmeA Jun 04, 2018 
+So happy to find this Report by @HP Innovation!!! 🙌🚀🔥🔥 Can't wait grab a ☕️ , read and add notes from it to the Fut… https://t.co/Oj4b2QjJol Jun 03, 2018 
+🔥 https://t.co/tFDJ6LM3J7 Jun 03, 2018 
+🙌 https://t.co/Da0y7BOnrx Jun 02, 2018 
+🚀🚀🔥🔥🚀🚀 https://t.co/zNqkmiAzao Jun 01, 2018 
+I always look forward to newsletters from @chrisfellingham 🔥🔥 Anyone interested in EdTech should definitely subscri… https://t.co/lLYtyP84dx Jun 01, 2018 
+The last 14 hours of global team collaboration on github 🚀 https://t.co/kMElm5DC3j Jun 01, 2018 
+Overheard in Chingu! 🙌🐻🐦🦎 #build2learn https://t.co/bMvFs5sllk Jun 01, 2018 
+More remote tech teams deployed! 🚀🚀🚀🔥🔥🔥 https://t.co/CQSWD9xKxf #build2learn #connect2learn May 29, 2018 
+🔥🔥 https://t.co/ILxq5auXuz May 27, 2018 
+🔥🔥🔥🔥 https://t.co/25e5Z64nw5 May 26, 2018 
+oh nice! I miss Waterloo! (used to live there and loved the HackerNest meetups!) https://t.co/y0h3npwIK2 May 22, 2018 
+#build2learn https://t.co/Y0hHIQZzgr May 21, 2018 
+#Connect2Learn #Build2Learn https://t.co/hgq35QNe9R May 17, 2018 
+VOYAGE-5 IS LIVE! https://t.co/ItAWGB19id Voyage-6 admissions will happen in the next week (thanks for your patien… https://t.co/nywYmOMbZZ May 15, 2018 
+Code adventures & team voyages 🚀🔥 https://t.co/wUjevCBfGE May 11, 2018 
+Shout-out @ziggysauce for writing this super helpful article and team dev process/project showcase!! https://t.co/oAPZg28tIa May 03, 2018 
+Chingu Weekly Vol. 59 --> https://t.co/jE8q9qn0pt Apr 24, 2018 
+Weekly Update --> https://t.co/K0OLQE1gex Apr 10, 2018 
+Chingu Weekly Vol. 55 --> https://t.co/H4YSh5D95D Mar 26, 2018 
+Remote developer team weekly accomplishments! 🙌 https://t.co/nw1FLo7llb Mar 20, 2018 
+Chingu weekly vol. 54 --> https://t.co/o6xZ4E8cpL Mar 20, 2018 
+🦎 🐦 🐻 Chingu Winter Developer Project Showcase -> https://t.co/U8IE30gUM3 Feb 23, 2018 
+300+ coders from 74 countries coming together to build. https://t.co/a9Fk6nukVt Feb 13, 2018 
+https://t.co/77MMFzvhD4 Dec 11, 2017 
+https://t.co/d2isjjEKtJ Nov 13, 2017 
+400+ aspiring developers from 60+ countries and 75+ remote dev projects and 1 summer = https://t.co/V8eP5ZTBPk Oct 11, 2017 
+Does linting make you a better developer? https://t.co/NRA8fHvL0y Aug 31, 2017 
+https://t.co/g5olUG2J8S Aug 29, 2017 
+Chingu weekly vol. 43 #collaboration #devteams--> https://t.co/O9qBdAG2XM Aug 29, 2017 
+The story of how a team of (then) strangers came together to build a slackbot for developers: https://t.co/HETJGvMq63 Aug 28, 2017 
+Remote dev collaboration shots --> https://t.co/fv1zbeJQr0 Aug 22, 2017 
+Wonderful podcast episode on rethinking how we learn on a large scale: https://t.co/uefxDaRwrw Aug 11, 2017 
+https://t.co/WRA7c27Eky Aug 10, 2017 
+https://t.co/fX8I6FHQrQ Aug 08, 2017 
+https://t.co/99LBaAq2vD Jul 31, 2017 
+Open-source coding projects, nonstop collaboration between people from all over the world. https://t.co/6APZ3GOvRr Jul 31, 2017 
+hahaha the perfect gif! https://t.co/Cui9PQr5ms Jul 31, 2017 
+https://t.co/DsHE26AmPB Jul 30, 2017 
+https://t.co/HCq4yQZfPR Jul 29, 2017 
+🔥🔥🔥 https://t.co/q1fydLY22t Jul 24, 2017 
+Overheard in Chingu --> https://t.co/iT8OWmebys Jul 24, 2017 
+https://t.co/Z4uNnBZmUW Jul 17, 2017 
+https://t.co/6AX50zdDD9 Jul 17, 2017 
+https://t.co/KOIJL69YIj Jul 13, 2017 
+https://t.co/YgUKvTMl6d Jul 10, 2017 
+A wonderful @mpjme episode: Self-discipline is a fraud: https://t.co/MSLU6eCnVZ Jul 09, 2017 
+Grace Hopper, legendary computer scientist, on Letterman: https://t.co/KjQxuLFF7M Jul 07, 2017 
+"A ship in port is safe, but that's not what ships are built for." --Grace Hopper Jul 07, 2017 
+Free Javascript book for the next 15 hours - Learning JavaScript Data Structures and Algorithms: https://t.co/8xp3LLWiMf Jul 06, 2017 
+Codata - an AI Pair-Programmer: https://t.co/7sLt8hitX1 Jul 06, 2017 
+Motivation: The Scientific Guide on How to Get and Stay Motivated: https://t.co/y2ooSq3aKm Jul 05, 2017 
+Course: Machine Learning A-Z™: Hands-On Python & R In Data Science, it's currently 90% off: https://t.co/0Zj9tjiK07 Jul 04, 2017 
+Slack Fall Software Engineer Internship Application: https://t.co/axXDkwwdg9 Jul 03, 2017 
+People, projects, collaboration -- this week's edition of Chingu Weekly: https://t.co/mzC1HUEKXb Jul 03, 2017 
+Chingu Weekly Update Vol. 33 --> https://t.co/WVvj6tlahn Jun 19, 2017 
+ya!!!!😇🙌 https://t.co/wEAeIjs9hw Jun 15, 2017 

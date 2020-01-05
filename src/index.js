@@ -1,6 +1,12 @@
 const fs = require('fs');
 const readline = require('readline');
 
+/**
+ * Parse a tweet
+ * @param {String} tweet content from AllMyTweets.net
+ * @returns {Object} Object containing the tweet, date it was posted, and the 
+ * URL if one was embedded in the tweet.
+ */
 const parseTweet = (tweet) => {
   const months = [' Jan ', ' Feb ', ' Mar ', ' Apr ', ' May ', ' Jun ', ' Jul ', 
                   ' Aug ', ' Sep ', ' Oct ', ' Nov ', ' Dec '];
